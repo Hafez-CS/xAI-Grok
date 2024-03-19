@@ -1,5 +1,7 @@
 # Grok-1
 
+![Monty Python](https://media.licdn.com/dms/image/D4D12AQEIyPgnGXYuuw/article-cover_image-shrink_600_2000/0/1677823166060?e=2147483647&v=beta&t=3qhRRp6Ysk2nGKYEJSzvacTOTdgoiBFkvoQFwbVKKQs)
+
 This repository contains JAX example code for loading and running the Grok-1 open-weights model.
 
 Make sure to download the checkpoint and place the `ckpt-0` directory in `checkpoints` - see [Downloading the weights](#downloading-the-weights)
